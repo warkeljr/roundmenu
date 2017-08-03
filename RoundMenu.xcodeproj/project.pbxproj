@@ -122,9 +122,9 @@
 				012B0FA51F30E7140094438B /* Main.storyboard */,
 				012B0FA81F30E7140094438B /* Assets.xcassets */,
 				012B0FAA1F30E7140094438B /* LaunchScreen.storyboard */,
-				012B0FAD1F30E7140094438B /* Info.plist */,
 				01D67B9F1F3397E90093A239 /* TableViewVC.swift */,
 				01D67BA11F3398560093A239 /* detailVC.swift */,
+				012B0FAD1F30E7140094438B /* Info.plist */,
 				01D67BA31F3399FB0093A239 /* GoogleService-Info.plist */,
 			);
 			path = RoundMenu;
