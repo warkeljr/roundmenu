@@ -1,0 +1,6 @@
+framework module Pods_RoundMenuTests {
+  umbrella header "Pods-RoundMenuTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
