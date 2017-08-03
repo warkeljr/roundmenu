@@ -96,6 +96,10 @@
                                         </tableViewCellContentView>
                                     </tableViewCell>
                                 </prototypes>
+                                <connections>
+                                    <outlet property="dataSource" destination="mXJ-H0-xgw" id="0xN-Lk-ghF"/>
+                                    <outlet property="delegate" destination="mXJ-H0-xgw" id="XcO-jL-qaD"/>
+                                </connections>
                             </tableView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
