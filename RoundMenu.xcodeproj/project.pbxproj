@@ -16,6 +16,7 @@
 		01D67BA01F3397E90093A239 /* TableViewVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01D67B9F1F3397E90093A239 /* TableViewVC.swift */; };
 		01D67BA21F3398560093A239 /* detailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01D67BA11F3398560093A239 /* detailVC.swift */; };
 		01D67BA41F3399FB0093A239 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 01D67BA31F3399FB0093A239 /* GoogleService-Info.plist */; };
+		01D67BA61F33B6160093A239 /* InfoVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01D67BA51F33B6160093A239 /* InfoVC.swift */; };
 		48E6F2272A381D952FE32C70 /* Pods_RoundMenu.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 219C4585201FF8F378FCAE5E /* Pods_RoundMenu.framework */; };
 		C4D577E61F27AB5BACA6DF35 /* Pods_RoundMenuTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0290E4413B4B73B2DE87C2E /* Pods_RoundMenuTests.framework */; };
 		F37A1DFB63DCC78F83B0B9C4 /* Pods_RoundMenuUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8A68684B91715B432599C8E7 /* Pods_RoundMenuUITests.framework */; };
@@ -54,6 +55,7 @@
 		01D67B9F1F3397E90093A239 /* TableViewVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewVC.swift; sourceTree = "<group>"; };
 		01D67BA11F3398560093A239 /* detailVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = detailVC.swift; sourceTree = "<group>"; };
 		01D67BA31F3399FB0093A239 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		01D67BA51F33B6160093A239 /* InfoVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InfoVC.swift; sourceTree = "<group>"; };
 		219C4585201FF8F378FCAE5E /* Pods_RoundMenu.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RoundMenu.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		490DF4C4C0CECFBB1896FD8A /* Pods-RoundMenu.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RoundMenu.debug.xcconfig"; path = "Pods/Target Support Files/Pods-RoundMenu/Pods-RoundMenu.debug.xcconfig"; sourceTree = "<group>"; };
 		7C6218D1FBA466E5C5521D2B /* Pods-RoundMenu.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RoundMenu.release.xcconfig"; path = "Pods/Target Support Files/Pods-RoundMenu/Pods-RoundMenu.release.xcconfig"; sourceTree = "<group>"; };
@@ -124,6 +126,7 @@
 				012B0FAA1F30E7140094438B /* LaunchScreen.storyboard */,
 				01D67B9F1F3397E90093A239 /* TableViewVC.swift */,
 				01D67BA11F3398560093A239 /* detailVC.swift */,
+				01D67BA51F33B6160093A239 /* InfoVC.swift */,
 				012B0FAD1F30E7140094438B /* Info.plist */,
 				01D67BA31F3399FB0093A239 /* GoogleService-Info.plist */,
 			);
@@ -454,6 +457,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				01D67BA61F33B6160093A239 /* InfoVC.swift in Sources */,
 				01D67BA21F3398560093A239 /* detailVC.swift in Sources */,
 				01D67BA01F3397E90093A239 /* TableViewVC.swift in Sources */,
 				012B0FA21F30E7140094438B /* AppDelegate.swift in Sources */,
